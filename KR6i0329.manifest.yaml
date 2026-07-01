@@ -1,0 +1,257 @@
+canonical_identifier: bkk:krp/KR6i0329/v1
+canonical_location: https://kanripo.org/bkk/KR6i0329/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大乘入楞伽經
+  identifiers:
+    alt_id:
+    - T16n0672
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0672.xml
+    old_id: T16n0672
+  edition:
+    short: bkk
+editions:
+- short: 宮
+  label: 宮
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 宋
+  label: 宋
+  source_xml_id: wit3
+- short: 元
+  label: 元
+  source_xml_id: wit4
+- short: 明
+  label: 明
+  source_xml_id: wit5
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0329_000.yaml, hash: 'sha256:db657cdd0acf3c80737f844b4a258cdb27bb5e04a57832faa5e47bde4c5a08e5'}
+  - {seq: 1, filename: KR6i0329_001.yaml, hash: 'sha256:f9d04a0e4d1f25039be401afdec94d02ca39f10b9532f2a4ad6fd01b4f531ae8'}
+  - {seq: 2, filename: KR6i0329_002.yaml, hash: 'sha256:e4cb3d6eed4ad679ccf7d0fc5033093aec4267bbfab507d2559c0e62fd5773b3'}
+  - {seq: 3, filename: KR6i0329_003.yaml, hash: 'sha256:5afc2235090943c64ab1931f96d1dd5207e4a2ad7edc1692f13a226e5e1ba29f'}
+  - {seq: 4, filename: KR6i0329_004.yaml, hash: 'sha256:c0de0a91cc09bbbc5e1473b445d12d924ee65496bdb67098b2c51459956eaf2d'}
+  - {seq: 5, filename: KR6i0329_005.yaml, hash: 'sha256:c85555ebcddc6b2ca9ced11962981244a79801d55ca88111a9846500fa0ca9bb'}
+  - {seq: 6, filename: KR6i0329_006.yaml, hash: 'sha256:28f614d4a8f3b04ecc12ea0c996fc56841dc830a397b2228363e9fc2dc1f8ff3'}
+  - {seq: 7, filename: KR6i0329_007.yaml, hash: 'sha256:b77c7bf0c50303c4d32999bfacf56279a256c1320f0c00930a9b14bcc70dd8ca'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0329_000.markers.yaml, hash: 'sha256:ed028a227e536c6e144eeb298e37717f089713551112369315f5ffc4ed1e2951'}
+  - {seq: 1, role: markers, filename: assets/KR6i0329_001.markers.yaml, hash: 'sha256:f96e9532efecb675b2abe153ab931cfcbe816fdcf90e8d85a4f267b0a080a5cf'}
+  - {seq: 2, role: markers, filename: assets/KR6i0329_002.markers.yaml, hash: 'sha256:ad8c7a3a91baff2f5503c469a5729df50f3a0321b8b53fe38b5c1abda98ced16'}
+  - {seq: 3, role: markers, filename: assets/KR6i0329_003.markers.yaml, hash: 'sha256:1b5f94eef9b134804f92d8c4a23923e91e1605db51891d1ab7d0ac75e33b5582'}
+  - {seq: 4, role: markers, filename: assets/KR6i0329_004.markers.yaml, hash: 'sha256:1f4d55ac3c5897c12511c7b323e1877156a5a7957b4445c6f49933108f310a0b'}
+  - {seq: 5, role: markers, filename: assets/KR6i0329_005.markers.yaml, hash: 'sha256:90ab99f26ffaa5d318c20b0555db784e45a621abab3b10b72d60e0babde61194'}
+  - {seq: 6, role: markers, filename: assets/KR6i0329_006.markers.yaml, hash: 'sha256:3464fabb7754897f2f3843fafde4a25da4ca424b56aef4cfd043e0c5b32ca7d6'}
+  - {seq: 7, role: markers, filename: assets/KR6i0329_007.markers.yaml, hash: 'sha256:dcc3fe12453f5405b05bbfba0861d502a61dfdd2aaa7af7891e6be24940283b3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0329_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 新譯大乘入楞伽經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0329_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8043
+  label: 大乘入楞伽經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0329_T_001-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 1 羅婆那王勸請品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0329_T_001-mulu-2
+    span:
+    - body
+    - 4008
+    - 4008
+  label: 2 集一切法品(一-三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0329_T_001-mulu-3
+    span:
+    - body
+    - 4008
+    - 4008
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0329_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7797
+  label: 大乘入楞伽經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0329_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8774
+  label: 大乘入楞伽經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0329_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 8868
+  label: 大乘入楞伽經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0329_T_004-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 3 無常品(四-五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0329_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 9576
+  label: 大乘入楞伽經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0329_T_005-mulu-1
+    span:
+    - body
+    - 4539
+    - 4539
+  label: 4 現證品(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0329_T_005-mulu-2
+    span:
+    - body
+    - 5505
+    - 5505
+  label: 5 如來常無常品(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0329_T_005-mulu-3
+    span:
+    - body
+    - 6007
+    - 6007
+  label: 6 剎那品(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0329_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 8543
+  label: 大乘入楞伽經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0329_T_006-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 7 變化品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0329_T_006-mulu-2
+    span:
+    - body
+    - 722
+    - 722
+  label: 8 斷食肉品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0329_T_006-mulu-3
+    span:
+    - body
+    - 3025
+    - 3025
+  label: 9 陀羅尼品(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0329_T_006-mulu-4
+    span:
+    - body
+    - 3580
+    - 3580
+  label: 10 偈頌品(六-七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0329_T_006-mulu-5
+    span:
+    - body
+    - 3580
+    - 3580
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0329_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 8390
+  label: 大乘入楞伽經卷第七
+  type: juan
+  level: 1
+hash: sha256:e595fc04597d78c06a1a66cfc499b759e16b182ec323848c85649f52a8fd5bb1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
