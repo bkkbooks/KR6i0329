@@ -33,7 +33,7 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6i0329_000.yaml, hash: 'sha256:db657cdd0acf3c80737f844b4a258cdb27bb5e04a57832faa5e47bde4c5a08e5'}
+  - {seq: 0, filename: KR6i0329_000.yaml, hash: 'sha256:bf80784b1ff0726a9cdae4b3ffaf6df829b20bd6ccfd8ad43242bc3829b0800a'}
   - {seq: 1, filename: KR6i0329_001.yaml, hash: 'sha256:67cc2d2bc2e878f1a68408c59b36024de9cbe1862813d759e3acfb0a15e395fb'}
   - {seq: 2, filename: KR6i0329_002.yaml, hash: 'sha256:cdb832122dcdf59b65ea52cc3bce1fa31ac964cb93c8e33d9d057fd44d69d662'}
   - {seq: 3, filename: KR6i0329_003.yaml, hash: 'sha256:3d423662c81627e2d82230c50cef257a564e2aa94c764130305ae3df496b8b12'}
@@ -42,7 +42,7 @@ assets:
   - {seq: 6, filename: KR6i0329_006.yaml, hash: 'sha256:0c61dbb9679ca15ee93722e58d4d59466fb9d9ab6bbf1fcdc634ce9033156bc0'}
   - {seq: 7, filename: KR6i0329_007.yaml, hash: 'sha256:4e1c5f90a284a8569f2404530822fd54c85c388c421381a58e45168f560b2e17'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0329_000.markers.yaml, hash: 'sha256:4a0e20407553d7d2984558cf59d2ff3b35247eb925b1440d9b8e136ccda9e18e'}
+  - {seq: 0, role: markers, filename: assets/KR6i0329_000.markers.yaml, hash: 'sha256:c51c4cc75ab2dcdd2c029f001ea6fa2ae0bebf6f50755f465b25f41722ea4ecb'}
   - {seq: 1, role: markers, filename: assets/KR6i0329_001.markers.yaml, hash: 'sha256:699f93141db3e00d3d9a67d86e79184cff33d423ef6c391d31e4acd6030ef161'}
   - {seq: 2, role: markers, filename: assets/KR6i0329_002.markers.yaml, hash: 'sha256:6b3efd2ecc90a114fd529c9b20ee3ad89ea7c02ebe4170ef8ceea2ca3029b329'}
   - {seq: 3, role: markers, filename: assets/KR6i0329_003.markers.yaml, hash: 'sha256:fb4999f1db6fba6b48b88ee04fe7541dcc0a317895c871aaad64dd7879a5b7a2'}
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0329_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 新譯大乘入楞伽經序
@@ -251,7 +251,7 @@ table_of_contents:
   label: 大乘入楞伽經卷第七
   type: juan
   level: 1
-hash: sha256:c7039750f8a6a8ca60bb0b0efdabdda239f588a0507b0bb04443f664f6d4b587
+hash: sha256:1e0c211b247b83fc6d245fc73fb04deddb1462e9b8dd14517ab72baa5c83efc2
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

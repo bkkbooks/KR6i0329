@@ -19,7 +19,7 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6i0329_000-T.yaml, hash: 'sha256:9519196285085999da7dc5323cd2de76e5626bb7c51084b01897570105ae0604'}
+  - {seq: 0, filename: KR6i0329_000-T.yaml, hash: 'sha256:727b68b38ccfd2f7a509542e22ab15d85ab82598da77da9c2d90acc2677a5d19'}
   - {seq: 1, filename: KR6i0329_001-T.yaml, hash: 'sha256:91c48cbb2f132640eea2217da443c9e4f5e736bf394d14463045fe9c64e7b28a'}
   - {seq: 2, filename: KR6i0329_002-T.yaml, hash: 'sha256:9d1206e408e3c8bb6faeed25425e233a2cd10b4b6f8d07b5b050303837536094'}
   - {seq: 3, filename: KR6i0329_003-T.yaml, hash: 'sha256:0923aa8469a14129d0b956c9f2dc639fdbc39743c47f593d7d6c22c3a0c8f881'}
@@ -28,7 +28,7 @@ assets:
   - {seq: 6, filename: KR6i0329_006-T.yaml, hash: 'sha256:c0858d43736990a5db9b4d2bfe62ccc615a50caefcd2dbe9a7cf09358d6ea972'}
   - {seq: 7, filename: KR6i0329_007-T.yaml, hash: 'sha256:f84c07e37c2d88abc9b4f11e0dd77770d3c4d41509f1156f795f5c90d4649281'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0329_000-T.markers.yaml, hash: 'sha256:966ae8ab94c931fc6d837d2c9f437314c44ce328b491524e5d46c363cdc568e3'}
+  - {seq: 0, role: markers, filename: assets/KR6i0329_000-T.markers.yaml, hash: 'sha256:d1913f61c73e9959300c51bc1a85d8539448d99b8d70768447a7a8911479a40b'}
   - {seq: 1, role: markers, filename: assets/KR6i0329_001-T.markers.yaml, hash: 'sha256:a3a5df4aa61006e3ce9914bb51b70e01ecb576c5637b6ef3a6f0dca65c38a7d6'}
   - {seq: 2, role: markers, filename: assets/KR6i0329_002-T.markers.yaml, hash: 'sha256:2e31deb86f4655e5c21e1b701ee3c9581b652fbc37f0cf658eda3e46268870ad'}
   - {seq: 3, role: markers, filename: assets/KR6i0329_003-T.markers.yaml, hash: 'sha256:0dd091be28f48e56201cf86871526ce463dfe295e2fe1fb61016faafe51a48c2'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0329_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 新譯大乘入楞伽經序
@@ -237,4 +237,4 @@ table_of_contents:
   label: 大乘入楞伽經卷第七
   type: juan
   level: 1
-hash: sha256:5dd44db561609878552eef72bed2041d8f90f1d18bd43589e490964b5584a1c7
+hash: sha256:f43e7daba2df83912f7f9e1b6c8e0b70632479a488e250eab9af3a83fae90429
